@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1640332558 source:c:\users\mark\desktop\Инфа лабы\lab 3\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<iterator>
+	<string>
+	<sstream>
+
